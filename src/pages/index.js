@@ -53,7 +53,7 @@ const IndexPage = () => {
       <div className={blogStyles.headerHome}>
         <h2>Hola! I'm</h2>
         <h1>Fernando Papaqui</h1>
-        <h3>I'm a Front-end web developer from Mexico.</h3>
+        <h3>I'm a WordPress developer from Mexico.</h3>
         <p>
           WordPress developer with more than 10 years of work experience. I have
           a deep interest in creating web apps, websites and ecommerce projects

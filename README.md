@@ -1,21 +1,21 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+<p style="text-align:center;">
+  <a href="https://www.fernandopapaqui.dev/">
+    <img alt="Fernando Papaqui" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
-<h1 align="center">
-  Fernando Papaqui Portfolio
+<h1 style="text-align:center;">
+  fernandopapaqui.dev v2.0
 </h1>
 
-I have a deep interest in creating light and fast websites using Gatsby, JS, React, and when necessary, WordPress custom themes.
+WordPress developer with more than 10 years of work experience. I have a deep interest in creating web apps, websites and ecommerce projects based on creative strategies and constant improvement of programming skills and design patterns.
 
 ## 🚀 Tools
 
+- Wordpress
 - Gatsby
 - React
 - SCSS
-- Wordpress
 
 ## 🎈 Languages
 
