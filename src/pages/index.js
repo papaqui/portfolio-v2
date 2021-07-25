@@ -76,7 +76,7 @@ const IndexPage = () => {
           <li>
             <a
               className={blogStyles.homeSocialsItem}
-              href="https://github.com/papaqui/portfolio"
+              href="https://github.com/papaqui/"
               target="_blank"
               rel="noreferrer"
             >

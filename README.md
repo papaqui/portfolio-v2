@@ -1,10 +1,10 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p style="text-align:center;">
+<p align="center">
   <a href="https://www.fernandopapaqui.dev/">
     <img alt="Fernando Papaqui" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
-<h1 style="text-align:center;">
+<h1>
   fernandopapaqui.dev v2.0
 </h1>
 
